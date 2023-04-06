@@ -2,7 +2,6 @@
   "name": "3d-portfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://https://ludwing979.github.io/3D_portfolio/",
   "type": "module",
   "scripts": {
     "dev": "vite",
