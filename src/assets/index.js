@@ -26,9 +26,9 @@ import sintel from "./company/sintel.png";
 import cnh from "./company/cnh.png";
 import tata from "./company/tata.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import gym from "./gym.png";
+import reactflix from "./reactflix.png";
+import shirt from "./3dShirt.png";
 
 export {
   logo,
@@ -55,8 +55,8 @@ export {
   sintel,
   cnh,
   tata,
-  carrent,
+  gym,
   infosys,
-  jobit,
-  tripguide,
+  reactflix,
+  shirt,
 };

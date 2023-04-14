@@ -18,10 +18,10 @@ import {
   tata,
   cnh,
   sintel,
-  carrent,
+  gym,
   infosys,
-  jobit,
-  tripguide,
+  reactflix,
+  shirt,
   threejs,
 } from "../assets";
 
@@ -209,30 +209,30 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Gym Wbsite",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Web-based platform with a modern interface with very pleasent animations",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "css",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "HTML",
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
-    source_code_link: "https://github.com/",
+    image: gym,
+    source_code_link: "https://github.com/ludwing979/gym_website",
   },
   {
-    name: "Job IT",
+    name: "Reactflix",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Web application that enables users to search for any movie or series that you like and watch the trailer about it and showing you what is the most important movies right now.",
     tags: [
       {
         name: "react",
@@ -243,33 +243,33 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "context API",
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
-    source_code_link: "https://github.com/",
+    image: reactflix,
+    source_code_link: "https://github.com/ludwing979/movie-app",
   },
   {
-    name: "Trip Guide",
+    name: "3D shirt",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A comprehensive web page that displays a t-shirt that you can modify the way that you want and also adding a logo in the front of the shirt.",
     tags: [
       {
-        name: "nextjs",
+        name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "threeJS",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "tailwind",
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+    image: shirt,
+    source_code_link: "https://github.com/ludwing979/animation-page",
   },
 ];
 
