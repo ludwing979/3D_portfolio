@@ -21,7 +21,7 @@ import {
   gym,
   infosys,
   reactflix,
-  shirt,
+  summa,
   threejs,
 } from "../assets";
 
@@ -209,7 +209,7 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Gym Wbsite",
+    name: "Gym Website",
     description:
       "Web-based platform with a modern interface with very pleasent animations",
     tags: [
@@ -251,16 +251,16 @@ const projects = [
     source_code_link: "https://github.com/ludwing979/movie-app",
   },
   {
-    name: "3D shirt",
+    name: "Summarize Articles with OpenAI",
     description:
-      "A comprehensive web page that displays a t-shirt that you can modify the way that you want and also adding a logo in the front of the shirt.",
+      "Web page that anylisis another webpage and using an API with AI technology gives you a summarize of what this site does.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "threeJS",
+        name: "Redux",
         color: "green-text-gradient",
       },
       {
@@ -268,8 +268,8 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: shirt,
-    source_code_link: "https://github.com/ludwing979/animation-page",
+    image: summa,
+    source_code_link: "https://github.com/ludwing979/ai_summarizer",
   },
 ];
 

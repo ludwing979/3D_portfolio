@@ -28,7 +28,7 @@ import tata from "./company/tata.png";
 
 import gym from "./gym.png";
 import reactflix from "./reactflix.png";
-import shirt from "./3dShirt.png";
+import summa from "./summarizer.png";
 
 export {
   logo,
@@ -58,5 +58,5 @@ export {
   gym,
   infosys,
   reactflix,
-  shirt,
+  summa,
 };
